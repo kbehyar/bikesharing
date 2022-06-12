@@ -1,6 +1,8 @@
 # bikesharing
 
-[Tableau Public profile]: (https://public.tableau.com/app/profile/khash1793)
+Link to profile:[Tableau Public profile](https://public.tableau.com/app/profile/khash1793)
+
+
 
 ![](https://github.com/kbehyar/bikesharing/blob/main/Images/Checkout%20Times%20for%20Users.PNG)
 
