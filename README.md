@@ -1,6 +1,6 @@
 # bikesharing
 
-Link to profile:[Tableau Public profile](https://public.tableau.com/app/profile/khash1793)
+Link to tableau profile:[Khashayar Behyar](https://public.tableau.com/app/profile/khash1793)
 
 
 
